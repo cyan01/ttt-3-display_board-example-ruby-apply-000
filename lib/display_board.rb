@@ -2,8 +2,7 @@
 def display_board 
   puts "   |  |   "
   puts seperator = "-----------"
-  puts "  {board[3]}  |  {board[4]}  |  {board[5]}"
+  puts "   |  |   "   
   puts seperator
-  puts "  {board[6]}  |  {board[7]}  |  {board[8]}"
-  puts "\n"
+  puts "   |  |   "
 end
